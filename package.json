@@ -1,5 +1,6 @@
 {
-  "name": "vite-react-typescript-starter",
+  "homepage": "http://recon.gamkers.in",
+  "name": "gamkers-website",
   "private": true,
   "version": "0.0.0",
   "type": "module",
