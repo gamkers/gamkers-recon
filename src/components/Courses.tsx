@@ -4,7 +4,6 @@ import { useScrollAnimation } from '../hooks/useScrollAnimation';
 
 export default function Courses() {
   const contentRef = useScrollAnimation();
-  
 
   return (
     <section className="min-h-screen flex items-center bg-black/20 py-20 px-4">

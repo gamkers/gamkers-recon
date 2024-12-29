@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Instagram, Youtube, MessageCircle } from 'lucide-react';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 

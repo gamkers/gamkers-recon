@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react';
 
 export function useScrollAnimation() {
-  const elementRef = useRef<HTMLElement>(null);
+  const elementRef = useRef<HTMLDivElement>(null); // Change type to HTMLDivElement
 
   useEffect(() => {
     const observer = new IntersectionObserver(
